@@ -1,6 +1,6 @@
 🌱 Interested in learning 3D game development.
 
-- 📫 Email is TyleArsenaultt@gmail.com
+- 📫 Email is TylerArsenaultt@gmail.com
 
 <!---
 VirtualLime/VirtualLime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,7 @@
 🌱 Interested in web development, and C++ programming at the moment.
 
+Will be putting up more repos soon for graphics programming when I have the time.
+
 - 📫 Email is TylerArsenaultt@gmail.com
 
 <!---

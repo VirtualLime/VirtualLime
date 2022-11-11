@@ -1,4 +1,4 @@
-🌱 Interested in learning 3D game development.
+🌱 Interested in web development, and C++ programming at the moment.
 
 - 📫 Email is TylerArsenaultt@gmail.com
 

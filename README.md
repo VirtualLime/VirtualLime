@@ -2,6 +2,7 @@
 
 Will be putting up more repos soon for graphics programming when I have the time.
 
+Hobbyist Modeller/Animator
 
 <!---
 VirtualLime/VirtualLime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

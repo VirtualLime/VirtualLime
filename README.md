@@ -1,4 +1,4 @@
-🌱 Interested in C++ programming at the moment, background in full stack web development.
+🌱 Interested in C++ programming at the moment (Unreal/Engine Work), background in full stack web development.
 
 Will be putting up more repos soon for graphics programming when I have the time.
 

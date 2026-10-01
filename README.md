@@ -1,6 +1,6 @@
-Background in full stack web development.
+Currently working using full stack web development/devops/API as a programmer.
 
-Hobbyist Modeller/Animator (Blender work), looking for volunteer work for game projects for whatever (Props/Animations/Code)
+Hobbyist 3D Artist / animator, looking for volunteer work for game projects for whatever (Props/Animations/Code). For art comfortable with Blender, ZBrush, Substance Painter 2025, Substance Designer 2025 (Learning), stylized instead of realism
 
 Moving into some sort of strange technical art hobbyist work, shaders/modelling/sculpting/UV/making textures + working with most of the game engines including now godot, unreal engine, unity, everything except audio for now
 
